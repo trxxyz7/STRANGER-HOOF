@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STRANGER HOOF</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1 class="logo">STRANGER HOOF</h1>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Shop</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>ENTER THE UPSIDE DOWN OF STREETWEAR</h2>
+    <button>Shop Now</button>
+</section>
+
+<section class="products">
+    <h3>Featured Drops</h3>
+    <div class="grid">
+        <div class="item">
+            <img src="product1.jpg" alt="Hoodie">
+            <p>Neon Rift Hoodie</p>
+        </div>
+        <div class="item">
+            <img src="product2.jpg" alt="Tee">
+            <p>Shadow Realm Tee</p>
+        </div>
+        <div class="item">
+            <img src="product3.jpg" alt="Cap">
+            <p>Mindflame Cap</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 STRANGER HOOF</p>
+</footer>
+
+</body>
+</html>
